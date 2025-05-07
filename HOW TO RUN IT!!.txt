@@ -1,0 +1,15 @@
+HEY, I'M TUSHAR AKA XDZY
+
+I built a NIDS with security as the top priority. JavaScript is disabled by default to minimize attack surfaces. Logs are encrypted using public key encryption, ensuring only authorized access. Each log entry is linked using cryptographic hash chains to detect any tampering. Optional GPG signing adds an extra layer of authenticity to the logs. Logs are bundled into a .tar.gz archive with a SHA-256 checksum for integrity verification.
+
+This setup ensures that both data confidentiality and integrity are maintained throughout.
+
+HOW TO START IT-
+
+1. OPEN YOUR TERMINAL IN PROJECT-ROOT Dir
+
+3. RUN THE SERVER
+   
+   node server.js
+
+4. THEN ACCESS THE WEBPAGE AT LOCALHOST:3000
