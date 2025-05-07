@@ -4,6 +4,8 @@ I built a NIDS with security as the top priority. JavaScript is disabled by defa
 
 This setup ensures that both data confidentiality and integrity are maintained throughout.
 
+WARNING!! ADD NODE MODULE BEFORE RUNNING IT AND PLEASE CHECK ON THE DEPENDENCIES FOR THIS BACKEND SYSTEM TO RUN-
+
 HOW TO START IT-
 
 1. OPEN YOUR TERMINAL IN PROJECT-ROOT Dir
